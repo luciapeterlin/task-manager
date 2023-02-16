@@ -1,0 +1,15 @@
+.create-task-container{
+  width: 50%;
+  margin: 30px auto;
+}
+
+.tasks-list-container{
+  width: 50%;
+  margin: 0px auto;
+}
+
+@media(max-width: 991px){
+  .create-task-container, .tasks-list-container{
+    width: 90%;
+  }
+}
