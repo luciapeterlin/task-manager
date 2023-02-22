@@ -1,6 +1,6 @@
 # React Task Manager App
 
-This is a ReactJs project that makes it easy to keep track of all Tasks.
+This is a React Js project that makes it easy to keep track of all tasks by adding new ones and deleting the ones completed.
 
 #### [Visite website](https://task-manager-luciapeterlin.surge.sh/)
 
